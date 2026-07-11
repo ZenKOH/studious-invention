@@ -1,0 +1,13 @@
+# Repository owner until functional teams are established.
+* @ZenKOH
+
+# Higher-risk areas require explicit ownership.
+/docs/SAFETY.md @ZenKOH
+/docs/PRIVACY.md @ZenKOH
+/docs/THREAT-MODEL.md @ZenKOH
+/docs/AI-EVALUATION.md @ZenKOH
+/packages/ai/ @ZenKOH
+/packages/schemas/ @ZenKOH
+/supabase/migrations/ @ZenKOH
+/.github/workflows/ @ZenKOH
+
